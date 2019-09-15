@@ -1,0 +1,24 @@
+---
+title: "RMarkdown Class Schedule"
+author: "Ken Kalbach"
+date: "September 15, 2019"
+output: html_notebook
+---
+
+# Class Schedule
+
+### STAT 414: Intro Prob Theory
+
+This class is the introduction to the theory of probability in statistics, mathmatics, engineering, and other similar subjects. So far, I am enjoying the class, I like my professor and the material.  I am taking this class because it is a prerequisit for many of the upper 400 level stat classes.  My section meets twice a week at 9:05 am. If you want to know more about Stat 414, [here's the link](https://newonlinecourses.science.psu.edu/stat414/). Since probability theory is heavily based in calculations, I've attached a photo of a tree diagram which is helpful to figure out different probabilities. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Probability_tree_diagram.svg/1865px-Probability_tree_diagram.svg.png)
+
+
+### STAT 184: Introduction to R Programmaing
+
+This class in an introduction to the coding language R.  R is a statistical based coding language used by professional statisticians to analyze data. I am taking this class because I am required to take this class.  So far it's not too bad, but I know the concepts will get more complex and my frustrations with myself will grow along with the more complex topics. If you want to know more about Stat 184, [here's the link](https://stat.psu.edu/education/syllabi/spring-2017/stat184syllabus.pdf/view). Here is a photo of Bert and Earnie from Sesame Street holding the letter R:
+![](https://vignette.wikia.nocookie.net/muppet/images/a/a9/Rmachine.jpg/revision/latest?cb=20070503020930)
+
+
+### Stat 462: Applied Regression Analysis
+
+This class is an in-depth class about regression analysis.  In this class I will learn about linear regression, stepwise regression, and non-linear regression models as well as correlation.  I am really enjoying this class and the topics that it is covering.  This class meets three times a week.  If you want to learn more about the class, [here's the link](https://newonlinecourses.science.psu.edu/stat462/).  Here is an example of a linear regression model:
+![](https://www.jmp.com/en_hk/statistics-knowledge-portal/what-is-multiple-regression/fitting-multiple-regression-model/_jcr_content/par/styledcontainer_2069/par/lightbox_4130/lightboxImage.img.png/1548704005203.png)
